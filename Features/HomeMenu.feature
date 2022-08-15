@@ -8,3 +8,4 @@ Scenario: Home Menu
 	Given that I navigate to "https://user-68906616-work.colibriwp.com/prepmajor1com/"
 	When I click on Home Menu
 	Then Prepmajor Home Menu Page is displayed
+	But home menu is not displayed
